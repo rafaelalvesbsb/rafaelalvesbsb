@@ -1,4 +1,5 @@
-# 💫 About Me:
+💫 Um pouco sobre mim:
+
 👨🏾‍🎓👨🏾‍💻 Sou Analista de infraestrutura, formado em Sistemas de Informação no Centro Universitário Projeção e Técnico em Administração de redes pelo Senai.<br>Com expertise e objetivos em me tornar um especialista em Infra nas áreas de Cloud e Devops.
 
 
