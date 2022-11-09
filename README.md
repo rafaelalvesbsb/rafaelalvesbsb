@@ -15,7 +15,7 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-https://cdn.pensador.com/img/imagens/st/ep/stephen_hawking_pensador.jpg
+
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
